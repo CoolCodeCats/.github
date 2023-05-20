@@ -1,7 +1,10 @@
 # Name: Peter Walczyk
 Location: Ann Arbor
+
 Work: Enumera Molecular
+
 Title: Software Engineer 1
+
 LinkedIn: [Peter] {https://www.linkedin.com/in/peter-walczyk-526b3b14a/}
 
 # What I Do...
